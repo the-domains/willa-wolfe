@@ -1,0 +1,28 @@
+name: Willa Wolfe
+favicon: null
+layout_spectrum: 0.8338753343559802
+typography_spectrum: 0.7664108292665333
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4790791382547468
+  lightness: 0.7517457900103182
+  saturation: 0.9950139194261283
+  rhythmicContrast: 0.2438858556561172
+purpose: []
